@@ -19,7 +19,7 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 5. Now Right Click on **Rainmeter.exe**  and select "Send to" > "Desktop (Create a Shortcut)"
 6. Finally run **RestartRainmeter.exe** to complete the setup
 7. Now open the Huion \ XP-Pen \ Wacom App & Set the buttons to "QD1 \ QD2 \ QD3" in "C:\Rainmeter\Launchers"
-8. Test the buttons to launch the different docks (Black, Gray & White)
+8. Test the buttons to launch the different panels (Black, Gray & White)
 
 ## Customization 
 

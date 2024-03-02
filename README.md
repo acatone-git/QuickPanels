@@ -19,7 +19,7 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 
 ## Create More Panels / Custom Launchers
 
-Read the Development Repo (TBA)
+- Read the Development Repo (TBA)
 
 # Credits & Thanks
 

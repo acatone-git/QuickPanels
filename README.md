@@ -13,7 +13,7 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 7. Now open the Huion / XP-Pen / Wacom App & Set the buttons to QD1 / QD2 / QD3 in C:\Rainmeter\Launchers
 8. Test the buttons to launch the different docks (Black, Gray & White)
 
-## Panels Customization 
+## Customization 
 
 Follow the video instructions from the [creator](https://github.com/nitesh-prasad) of the Quantum Dock: https://www.youtube.com/watch?v=ejKArlqEcrE 
 

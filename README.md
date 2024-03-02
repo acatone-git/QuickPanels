@@ -4,7 +4,7 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 
 ## Requirements
 
-- [Rainmeter](https://github.com/rainmeter/rainmeter)
+- [Rainmeter](https://github.com/rainmeter/rainmeter/releases)
 - [QuickPanels Archive](link)
  
 ## Setup

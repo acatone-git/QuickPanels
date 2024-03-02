@@ -17,7 +17,7 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 4. Download & Extract the [QuickPanels Archive](https://github.com/acatone-git/QuickPanels/releases) to "C:\Rainmeter"
 - **The folders "Skins" & "Launchers" should appear next to the other folders \ files \ executables** (See Example Below) ![InstallExample](https://github.com/acatone-git/QuickPanels/assets/67967964/31879b61-ea45-4149-8e6f-0478bb95ecb7)
 5. Now Right Click on **Rainmeter.exe**  and select "Send to" > "Desktop (Create a Shortcut)"
-6. Finally run **RestartRainmeter.exe** to complete the setup
+6. Finally run **RestartRainmeter.exe** to complete the initial setup
 7. Now open the Huion \ XP-Pen \ Wacom App & Set the buttons to "QD1 \ QD2 \ QD3" in "C:\Rainmeter\Launchers"
 8. Test the buttons to launch the different panels (Black, Gray & White)
 

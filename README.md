@@ -28,7 +28,7 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 ## Troubleshooting
 
 - If the panels don't show up, please make sure that Rainmeter is running in the system tray area. If not, launch it again using the icon on the desktop or by running **Rainmeter.exe** in "C:\Rainmeter"
-- To enable Rainmeter \ QuickPanels at system launch, please follow this video: https://www.youtube.com/watch?v=oZxTLdSEP70
+- To enable Rainmeter \ QuickPanels at system launch, please follow this video guide: https://www.youtube.com/watch?v=oZxTLdSEP70
 
 ## Create More Panels \ Custom Launchers
 

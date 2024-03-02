@@ -24,5 +24,5 @@ Read the Development Repo (TBA)
 # Credits & Thanks
 
 [Rainmeter](https://github.com/rainmeter/rainmeter)
-[Quantum Dock] (https://github.com/nitesh-prasad/Quantum-Dock/)
+[Quantum Dock](https://github.com/nitesh-prasad/Quantum-Dock/)
 [AHK](https://www.autohotkey.com/download/)

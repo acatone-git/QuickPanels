@@ -1,6 +1,6 @@
 # QuickPanels
 
-Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.), using [Rainmeter](https://github.com/rainmeter/rainmeter), [Quantum Dock](https://github.com/nitesh-prasad/Quantum-Dock/) & [AHK](https://github.com/AutoHotkey/AutoHotkey).
+Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.), using [Rainmeter](https://github.com/rainmeter/rainmeter), [Quantum Dock](https://github.com/nitesh-prasad/Quantum-Dock/) & [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey).
 
 ![QuickPanels](https://github.com/acatone-git/QuickPanels/assets/67967964/6a95865e-30c5-4617-9f78-a06cb23dd81d)
 

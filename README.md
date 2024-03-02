@@ -39,3 +39,4 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 - [Rainmeter](https://github.com/rainmeter/rainmeter)
 - [Quantum Dock](https://github.com/nitesh-prasad/Quantum-Dock/)
 - [AHK](https://www.autohotkey.com/download/)
+- [r/Huion](https://www.reddit.com/r/huion/comments/1ays9mb/different_quick_menus_for_different_buttons/) 

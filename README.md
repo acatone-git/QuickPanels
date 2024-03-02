@@ -27,7 +27,7 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 
 ## Troubleshooting
 
-- If the panels don't show up, make sure that Raimeter is running in the tray area, if not, launch it again using the icon on the desktop
+- If the panels don't show up, make sure that Raimeter is running in the system tray area, if not, launch it again using the icon on the desktop
 - To enable Rainmeter at startup, please follow this video: https://www.youtube.com/watch?v=oZxTLdSEP70
 
 ## Create More Panels \ Custom Launchers

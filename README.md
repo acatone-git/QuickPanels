@@ -23,7 +23,7 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 
 - Follow the video instructions from the [creator](https://github.com/nitesh-prasad) of the Quantum Dock: https://www.youtube.com/watch?v=ejKArlqEcrE 
 
-## Create More Panels / Custom Launchers
+## Create More Panels \ Custom Launchers
 
 - Read the Development Repo (TBA)
 

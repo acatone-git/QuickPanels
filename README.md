@@ -15,8 +15,7 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 2. Unload all the default Rainmeter "Skins" on your screen (Right Click > Unload Skin) 
 3. Open a File Explorer, navigate to "C:\Rainmeter" & delete the "Skins" Folder
 4. Download & Extract the [QuickPanels Archive](https://github.com/acatone-git/QuickPanels/releases) to "C:\Rainmeter"
-- **The folders "Skins" & "Launchers" should appear next to the other folders \ files \ executables**
-- ![InstallExample](https://github.com/acatone-git/QuickPanels/assets/67967964/b544dc6b-5da7-4ab2-b6d9-fa0102627991)
+- **The folders "Skins" & "Launchers" should appear next to the other folders \ files \ executables** ![InstallExample](https://github.com/acatone-git/QuickPanels/assets/67967964/b544dc6b-5da7-4ab2-b6d9-fa0102627991)
 5. Run RestartRainmeter.exe to complete the Rainmeter \ Quantum Dock Setup
 6. Now open the Huion \ XP-Pen \ Wacom App & Set the buttons to QD1 \ QD2 \ QD3 in C:\Rainmeter\Launchers
 7. Test the buttons to launch the different docks (Black, Gray & White)

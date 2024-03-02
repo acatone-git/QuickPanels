@@ -12,7 +12,7 @@ Multiple quick menus for drawing tablets \ displays (Huion, XP-Pen, Wacom etc.),
 ## Setup
 
 1. Install [Rainmeter](https://github.com/rainmeter/rainmeter/releases) in **Portable mode** to "C:\Rainmeter" & Select "Run Rainmeter" at the end of the installation 
-2. Unload all the default Rainmeter "Skins" on your screen (Right Click > Unload Skin) 
+2. Unload all the default Rainmeter "Skins" that will appear on your screen (Right Click > Unload Skin) 
 3. Open a File Explorer, navigate to "C:\Rainmeter" & delete the "Skins" Folder
 4. Download & Extract the [QuickPanels Archive](https://github.com/acatone-git/QuickPanels/releases) to "C:\Rainmeter"
 - **The folders "Skins" & "Launchers" should appear next to the other folders \ files \ executables** (See Example Below) ![InstallExample](https://github.com/acatone-git/QuickPanels/assets/67967964/31879b61-ea45-4149-8e6f-0478bb95ecb7)
